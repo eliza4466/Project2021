@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Organisation
+comment1.params=
+comment1.target=Admin\ setAdmin()
+comment10.params=args
+comment10.target=void\ DonatorsList(java.lang.String[])
+comment11.params=args
+comment11.target=void\ BeneficiaryList(java.lang.String[])
+comment12.params=
+comment12.target=RequestDonationList\ currentDonations()
+comment2.params=newAdmin
+comment2.target=void\ getAdmin(Admin)
+comment3.params=
+comment3.target=void\ addEntity()
+comment4.params=args
+comment4.target=void\ removeEntity(java.lang.String[])
+comment5.params=
+comment5.target=void\ insertDonator()
+comment6.params=
+comment6.target=void\ removeDonator()
+comment7.params=args
+comment7.target=void\ insertBeneficiary(java.lang.String[])
+comment8.params=
+comment8.target=void\ removeBeneficiary()
+comment9.params=args
+comment9.target=void\ EntityList(java.lang.String[])
+numComments=13
